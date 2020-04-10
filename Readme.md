@@ -9,6 +9,8 @@ docker-compose up
 ```
 you will have your grafana up and running on `http://localhost:3000` with dashboard ready. default password `laddu` from `./grafana/config.monitoring`
 
+![enter image description here](./screen.png)
+
 
 #####  Todos
 ```inform7
